@@ -14,15 +14,27 @@
 4. Galletas Oreo 🍪
 5. Huevo Estrellado 🍳
 
+---
 - Piano
 - Guitarra
 - Bajo
 - Motolina
 - Flauta
+---
 
 ```
 print("Hello world!")
 ```
+
+| Nombre | Actividad |
+| -------- | -----------|
+| Yeseli | Dibujar un auto |
+| Carolina | Dibujar un pastel |
+| Hubert | Dibujar tigre |
+
+- [x] Yeseli dibujar auto
+- [x] Carolina dibujar pastel
+- [x] Hubert dibujar tigre
 
 
 # SemanaTecArteProgra
