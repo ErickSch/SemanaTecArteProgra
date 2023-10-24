@@ -1,6 +1,8 @@
 """Paint, for drawing shapes.
 Erick Schiller Echavarria, A01740804.
+
 # Comentario de Emilio
+
 Exercises
 
 1. Add a color.
