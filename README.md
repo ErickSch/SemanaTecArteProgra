@@ -4,7 +4,7 @@
 # Carrera: ITC
 # Semestre: 5to
 ## Practica de GitHub
-
+# Comentario de Emilio Rizo
 # Integrante de Equipo: Emilio Rizo de la Mora A01721612
 
 **Bold Semana Tec12**
