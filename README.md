@@ -5,6 +5,8 @@
 # Semestre: 5to
 ## Practica de GitHub
 
+# Integrante de Equipo: Emilio Rizo de la Mora A01721612
+
 **Bold Semana Tec12**
 *Italic*
 
@@ -188,5 +190,5 @@ Puedes realizar una lista desordenada al anteceder una o más líneas de texto c
 #Lista de Tareas
 - [X] #739
 - [ ] 👩🏻
-- [ ] :tada:
+- [x] Emilio Dibujar un rectangulo
  
